@@ -1,15 +1,15 @@
 ### Boas vindas! 👋
 
 - 🔭 Ultimamente estou trabalhando com projetos que usam Flutter, Firebase, Machine Learning ...
-- 🌱 Aprendendo Angular, Spring, SNS/SQS
+- 👨‍🏫 Estou ensinando 3 adolescentes a programar
 - 👯 Colaborando com alguns projetos em Flutter
-- 💬 Fique a vontade para perguntar qualquer coisa
-- 📫 Contate-me no diogoroos@gmail.com
+- 📫 Fique a vontade para me contatar no diogoroos@gmail.com
 
 <!--
 **diogoroos/diogoroos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🌱 Estou aprofundando em back-end e cloud
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
