@@ -1,4 +1,10 @@
-### Hi there 👋
+### Boas vindas! 👋
+
+- 🔭 Ultimamente estou trabalhando com projetos que usam Flutter, Firebase, Machine Learning ...
+- 🌱 Aprendendo Angular, Spring, SNS/SQS
+- 👯 Colaborando com alguns projetos em Flutter
+- 💬 Fique a vontade para perguntar qualquer coisa
+- 📫 Contate-me no diogoroos@gmail.com
 
 <!--
 **diogoroos/diogoroos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
