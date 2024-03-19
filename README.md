@@ -7,6 +7,9 @@
 - 👯 Colaborando com alguns projetos em Flutter
 - 📫 Fique a vontade para me contatar no diogoroos@gmail.com
 
+Alguns dos trabalhos que fiz
+[<img src="https://github.com/diogoroos/omie_app/assets/78812662/80126a86-93bc-43e1-8433-1bc116004331" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
+
 <!--
 **diogoroos/diogoroos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
