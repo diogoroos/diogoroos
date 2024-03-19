@@ -2,6 +2,7 @@
 
 - 🔭 Ultimamente estou trabalhando com projetos que usam Flutter, Firebase, Machine Learning ...
 - 👨‍🏫 Estou ensinando 3 adolescentes a programar
+- 👨‍🏫 Fui professor da disciplina mobile (Android e Flutter) do programa PRONATEC (Novos Caminhos) do Governo de Santa Catarina
 - 👯 Colaborando com alguns projetos em Flutter
 - 📫 Fique a vontade para me contatar no diogoroos@gmail.com
 
