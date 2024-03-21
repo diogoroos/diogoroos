@@ -4,7 +4,7 @@
 - 🔭 Fazendo alguns cursos nas horas livres
 - 👨‍🏫 Fui professor da disciplina mobile (Android e Flutter) do programa PRONATEC (Novos Caminhos) do Governo de Santa Catarina
 - 👨‍🏫 Aos sábados estou ensinando adolescentes a programar
-- 👯 Colaborando com Flutter: [flutter_keyboard](https://pub.dev/packages/flutter_keyboard)
+- 👯 Colaborando com o ambiente Flutter
 - 📫 Fique a vontade para me contatar no diogoroos@gmail.com
 
 Alguns dos trabalhos que fiz:
@@ -12,6 +12,8 @@ Alguns dos trabalhos que fiz:
 [<img src="https://github.com/diogoroos/omie_app/assets/78812662/80126a86-93bc-43e1-8433-1bc116004331" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
 
 <!--
+[flutter_keyboard](https://pub.dev/packages/flutter_keyboard)
+
 **diogoroos/diogoroos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
