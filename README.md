@@ -1,10 +1,10 @@
 ### Boas vindas! 👋
 
-- 🔭 Ultimamente estou trabalhando com projetos que usam Flutter, Firebase, Machine Learning ...
+- 🔭 Ultimamente estou trabalhando com projetos que usam Flutter, Firebase, Crypto, Machine Learning ...
 - 🔭 Fazendo alguns cursos nas horas livres
 - 👨‍🏫 Fui professor da disciplina mobile (Android e Flutter) do programa PRONATEC (Novos Caminhos) do Governo de Santa Catarina
 - 👨‍🏫 Aos sábados estou ensinando adolescentes a programar
-- 👯 Colaborando com alguns projetos em Flutter
+- 👯 Colaborando com Flutter: [flutter_keyboard](https://pub.dev/packages/flutter_keyboard)
 - 📫 Fique a vontade para me contatar no diogoroos@gmail.com
 
 Alguns dos trabalhos que fiz:
