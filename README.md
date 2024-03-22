@@ -8,10 +8,12 @@
 - 📫 Fique a vontade para me contatar no diogoroos@gmail.com
 
 Alguns dos trabalhos que fiz:<br/>
+
+# Pacotes
 https://pub.dev/packages/flutter_keyboard <br/>
 https://pub.dev/packages/trapezoid <br/> <br/>
 
-
+# Omie
 [<img src="https://github.com/diogoroos/diogoroos/assets/78812662/cf00cf0d-6404-4581-a103-a016548d2806" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
 
 <!--
