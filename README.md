@@ -7,7 +7,10 @@
 - 👯 Colaborando com o ambiente Flutter
 - 📫 Fique a vontade para me contatar no diogoroos@gmail.com
 
-Alguns dos trabalhos que fiz:
+Alguns dos trabalhos que fiz:<br/>
+http://pub.dev/packages/flutter_keyboard <br/>
+https://pub.dev/packages/trapezoid <br/> <br/>
+
 
 [<img src="https://github.com/diogoroos/diogoroos/assets/78812662/cf00cf0d-6404-4581-a103-a016548d2806" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
 
