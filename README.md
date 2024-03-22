@@ -8,7 +8,7 @@
 - 📫 Fique a vontade para me contatar no diogoroos@gmail.com
 
 Alguns dos trabalhos que fiz:<br/>
-http://pub.dev/packages/flutter_keyboard <br/>
+https://pub.dev/packages/flutter_keyboard <br/>
 https://pub.dev/packages/trapezoid <br/> <br/>
 
 
