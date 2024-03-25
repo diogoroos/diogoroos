@@ -14,7 +14,7 @@ https://github.com/diogoroos/flutter_keyboard <br/>
 https://github.com/diogoroos/trapezoid <br/> <br/>
 
 ### Omie
-[<img src="https://github.com/diogoroos/diogoroos/assets/78812662/cf00cf0d-6404-4581-a103-a016548d2806" heigth="300" width="300px">](https://www.youtube.com/watch?v=uyCk2mHocgQ)
+[<img src="https://github.com/diogoroos/diogoroos/assets/78812662/cf00cf0d-6404-4581-a103-a016548d2806" heigth="300" width="300px">](https://youtu.be/96RqpCz0DRc)
 
 <!--
 [flutter_keyboard](https://pub.dev/packages/flutter_keyboard)
