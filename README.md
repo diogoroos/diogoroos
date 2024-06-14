@@ -10,8 +10,8 @@
 
 ### O que fiz anteriormente
 - 👴 Trabalho com TI desde os anos 2000: comecei com redes, servidores e segurança, até ir para desenvolvimento e assumir a gestão de times
-- ⏰ Trabalhei com Java (JME, JSE, JEE), JSF, Javascript, HTML 5, SQL (Oracle, SQL Server, MySQL), BI, ERP, HCM, CRM
 - 👨‍🏫 Formação e gerenciamento de até 21 desenvolvedores/techleads/po/ux
+- ⏰ Trabalhei com Java (JME, JSE, JEE), JSF, Javascript, HTML 5, SQL (Oracle, SQL Server, MySQL), BI, ERP, HCM, CRM
 - 👷 Atuação em bancos, franquias, startup, indústria, consultoria, distribuição e serviços
 - 👨‍🏫 Fui professor de mobile (Android e Flutter) do programa Novos Caminhos (PRONATEC) do estado de Santa Catarina.
 - 🚀 Criação de novas organizações nas lojas Google e Apple até a publicação de apps
