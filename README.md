@@ -1,15 +1,25 @@
 ### Boas vindas! 👋
 
 - 🔭 Ultimamente estou trabalhando com projetos que usam Flutter, Firebase, Câmbio, Crypto, Machine Learning ...
-- 🔭 Fazendo alguns cursos nas horas livres
-- 👨‍🏫 Fui professor da disciplina mobile (Android e Flutter) do programa Novos Caminhos (PRONATEC) do Governo de Santa Catarina
-- 👨‍🏫 Aos sábados estou ensinando adolescentes a programar
-- 👯 Colaborando com o ambiente Flutter
+- 🔭 Fazendo cursos nas horas livres
+- 👨‍🏫 Aos sábados ensino adolescentes a programar
+- 👯 Colaborando com a comunidade Flutter
 - 📫 Fique a vontade para me contatar no diogoroos@gmail.com ou no whats~app https://rebrand.ly/k8uqqef
 
-Alguns dos trabalhos que fiz:<br/>
+## O que fiz nos últimos anos
+- 👴 Trabalhando com TI desde os anos 2000
+- 👨‍🏫 Formei e gerenciei até 21 desenvolvedores/techleads/po/ux
+- 👷 Já atuei em bancos, franquias, startup, indústria, consultoria, distribuição e serviços
+- 👨‍🏫 Fui professor da disciplina mobile (Android e Flutter) do programa Novos Caminhos (PRONATEC) do estado de Santa Catarina
+- 🚀 Criação de novas organizações em lojas Google e Apple até a publicação de apps
+- 🚀 Inovação em produtos desde a concepção
 
-### Pacotes Flutter
+## Alguns dos trabalhos que fiz com Flutter:<br/>
+getBraza: crypto USDT via PIX | Android, iOS e WEB | https://app.getbraza.com/
+Braza On: câmbio | Android e iOS | https://app.brazaon.com.br/
+Omie: versão mobile do erp | Android e iOS | https://ajuda.omie.com.br/pt-BR/articles/6719876-app-omie
+
+# Pacotes que desenvolvi para Flutter
 https://github.com/diogoroos/flutter_keyboard <br/>
 https://github.com/diogoroos/trapezoid <br/> <br/>
 
