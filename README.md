@@ -15,9 +15,9 @@
 - 🚀 Inovação em produtos desde a concepção
 
 ## Alguns dos trabalhos que fiz com Flutter:<br/>
-getBraza: crypto USDT via PIX | Android, iOS e WEB | https://app.getbraza.com/
-Braza On: câmbio | Android e iOS | https://app.brazaon.com.br/
-Omie: versão mobile do erp | Android e iOS | https://ajuda.omie.com.br/pt-BR/articles/6719876-app-omie
+getBraza: crypto USDT via PIX | Android, iOS e WEB | https://app.getbraza.com/<br/>
+Braza On: câmbio | Android e iOS | https://app.brazaon.com.br/<br/>
+Omie: versão mobile do erp | Android e iOS | https://ajuda.omie.com.br/pt-BR/articles/6719876-app-omie<br/>
 
 # Pacotes que desenvolvi para Flutter
 https://github.com/diogoroos/flutter_keyboard <br/>
