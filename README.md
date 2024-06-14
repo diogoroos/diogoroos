@@ -1,6 +1,6 @@
 ### Boas vindas! 👋
 
-📫 Fique a vontade para me contatar <a href="mailto:diogoroos@gmail.com">por e-mail</a> ou no whats~app https://rebrand.ly/k8uqqef
+📫 Fique a vontade para me contatar <a href="mailto:diogoroos@gmail.com">por e-mail</a> ou no <a href="https://rebrand.ly/k8uqqef>whatsapp</a>.
 
 ### O que tenho feito ultimamente
 - 🔭 Trabalhando com projetos que usam Flutter, Firebase, Google Cloud, Machine Learning... em Câmbio e Crypto
