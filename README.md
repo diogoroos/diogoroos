@@ -1,6 +1,6 @@
 ### Boas vindas! 👋
 
-- 🔭 Ultimamente estou trabalhando com projetos que usam Flutter, Firebase, Câmbio, Crypto, Machine Learning ...
+- 🔭 Ultimamente estou trabalhando com projetos que usam Flutter, Firebase, Machine Learning... em projetos de Câmbio e Crypto
 - 🔭 Fazendo cursos nas horas livres
 - 👨‍🏫 Aos sábados ensino adolescentes a programar
 - 👯 Colaborando com a comunidade Flutter
