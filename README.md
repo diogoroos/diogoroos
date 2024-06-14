@@ -5,7 +5,7 @@
 - 👨‍🏫 Fui professor da disciplina mobile (Android e Flutter) do programa Novos Caminhos (PRONATEC) do Governo de Santa Catarina
 - 👨‍🏫 Aos sábados estou ensinando adolescentes a programar
 - 👯 Colaborando com o ambiente Flutter
-- 📫 Fique a vontade para me contatar no diogoroos@gmail.com
+- 📫 Fique a vontade para me contatar no diogoroos@gmail.com ou no whats~app https://rebrand.ly/k8uqqef
 
 Alguns dos trabalhos que fiz:<br/>
 
