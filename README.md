@@ -1,12 +1,12 @@
 ### Boas vindas! 👋
 
+📫 Fique a vontade para me contatar <a href="mailto:diogoroos@gmail.com">por e-mail</a> ou no whats~app https://rebrand.ly/k8uqqef
+
 ### O que tenho feito ultimamente
 - 🔭 Trabalhando com projetos que usam Flutter, Firebase, Google Cloud, Machine Learning... em Câmbio e Crypto
 - 🔭 Nas horas livres estou fazendo cursos de IA e Cloud
 - 👨‍🏫 Aos sábados tenho ensinado adolescentes a programar
 - 👯 Colaborando com a comunidade Flutter
-
-📫 Fique a vontade para me contatar <a href="mailto:diogoroos@gmail.com">por e-mail</a> ou no whats~app https://rebrand.ly/k8uqqef
 
 ### O que fiz anteriormente
 - 👴 Trabalho com TI desde os anos 2000: comecei com redes, servidores e segurança, até ir para desenvolvimento e assumir a gestão de times
