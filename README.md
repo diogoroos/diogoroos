@@ -4,7 +4,7 @@
 - 🔭 Fazendo cursos nas horas livres
 - 👨‍🏫 Aos sábados ensino adolescentes a programar
 - 👯 Colaborando com a comunidade Flutter
-- 📫 Fique a vontade para me contatar no diogoroos@gmail.com ou no whats~app https://rebrand.ly/k8uqqef
+- 📫 Fique a vontade para me contatar <a href="mailto:diogoroos@gmail.com>por e-mail</a> ou no whats~app https://rebrand.ly/k8uqqef
 
 ### O que fiz nos últimos anos
 - 👴 Trabalhando com TI desde os anos 2000: comecei com redes/servidores, segurança, desenvolvimento... até chegar na gestão de times
