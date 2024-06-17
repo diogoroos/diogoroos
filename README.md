@@ -7,6 +7,8 @@
 - 🔭 Nas horas livres faço cursos, como alguns de IA e Cloud
 - 👨‍🏫 Aos sábados tenho ensinado adolescentes a programar
 - 👯 Colaborando com a comunidade Flutter
+- 🚀 Criação de novas organizações nas lojas Google e Apple até a publicação de apps
+- 🚀 Inovação em produtos desde a concepção
 
 ### O que fiz anteriormente
 - 👴 Trabalho com TI desde os anos 2000: comecei com redes, servidores e segurança, até ir para desenvolvimento e assumir a gestão de times
@@ -14,8 +16,6 @@
 - ⏰ Trabalhei com Java (JME, JSE, JEE), JSF, Javascript, HTML 5, SQL (Oracle, SQL Server, MySQL), BI, ERP, HCM, CRM
 - 👷 Atuação em bancos, franquias, startup, indústria, consultoria, distribuição e serviços
 - 👨‍🏫 Fui professor de mobile (Android e Flutter) do programa Novos Caminhos (PRONATEC) do estado de Santa Catarina.
-- 🚀 Criação de novas organizações nas lojas Google e Apple até a publicação de apps
-- 🚀 Inovação em produtos desde a concepção
 
 ### Alguns dos trabalhos que fiz com Flutter<br/>
 getBraza: crypto USDT via PIX | Android, iOS e WEB | https://app.getbraza.com/<br/>
