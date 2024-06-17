@@ -4,7 +4,7 @@
 
 ### O que tenho feito ultimamente
 - 🔭 Trabalhando com projetos que usam Flutter, Firebase, Google Cloud, Machine Learning... em Câmbio e Crypto
-- 🔭 Nas horas livres faço cursos, como de IA e Cloud
+- 🔭 Nas horas livres faço cursos, como alguns de IA e Cloud
 - 👨‍🏫 Aos sábados tenho ensinado adolescentes a programar
 - 👯 Colaborando com a comunidade Flutter
 
